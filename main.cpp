@@ -24,7 +24,6 @@ void parseSubtraction() {
 	cout << a - b << endl;
 }
 
-
 void parseMultiplication() {
 	float a=0, b=0;
 	cin >> a;
@@ -51,6 +50,10 @@ void parseExponentiation() {
 }
 
 void parseSquareRoot() {
+	float a=0, r=0;
+	cin >> a;
+	r=sqrt(a);
+	cout << r << endl;
 }
 
 void parseSine() {
