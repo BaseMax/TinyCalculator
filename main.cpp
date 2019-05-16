@@ -93,7 +93,7 @@ void help() {
 }
 
 void error() {
-	cout << "Error!\n";
+	cout << "Error : Input is anonymous!\n";
 }
 
 int main(int argc, char** argv) {
