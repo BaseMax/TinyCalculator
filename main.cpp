@@ -80,15 +80,17 @@ void parseTangent() {
 void help() {
 	cout << "\n\n";
 	cout << " Tiny Calculator ------------------------------\n";
-	cout << "\t a\t\t Addition two number\n";
-	cout << "\t m\t\t Subtraction two number\n";
-	cout << "\t u\t\t Multiplication two number\n";
-	cout << "\t d\t\t Division two number\n";
-	cout << "\t p\t\t Exponentiation two number\n";
-	cout << "\t c\t\t add two number\n";
-	cout << "\t c\t\t add two number\n";
-	cout << "\t c\t\t add two number\n";
-	cout << "\t c\t\t add two number\n";
+	cout << "\t a\t\t Addition of two number\n";
+	cout << "\t m\t\t Subtraction of two number\n";
+	cout << "\t u\t\t Multiplication of two number\n";
+	cout << "\t d\t\t Division of two number\n";
+	cout << "\t p\t\t Exponentiation of two number\n";
+	cout << "\t r\t\t SquareRoot of a number\n";
+	cout << "\t s\t\t Sine of anumber\n";
+	cout << "\t c\t\t Cosine of anumber\n";
+	cout << "\t t\t\t Tangent of a number\n";
+	cout << "\t h\t\t Help\n";
+	cout << "\t e\t\t Exit\n";
 	cout << "\n\n";
 }
 
