@@ -21,9 +21,11 @@ In order to this click the fork button on the top right corner of the screen. Th
 g++ main.cpp -o executable_name_here.exe
 executable_name_here.exe
 ```
+
 From here type e to exit the program or press h to look at math operations to use
 
-##Contributors
+## Contributors
+
 * [BaseMax](https://github.com/BaseMax)
 * [EduardoJTR](https://github.com/EduardoJTR)
 * [pandeym1](https://github.com/pandeym1)
